@@ -8,7 +8,7 @@ arch=('i686' 'x86_64')
 url="https://launchpad.net/typecatcher"
 screenshot="http://andrewsomething.files.wordpress.com/2012/11/selection_005.png"
 license=('GPL3')
-depends=('python3' 'python-distutils-extra' 'python-gobject' 'yelp' 'webkitgtk' 'gobject-introspection' 'gtk3')
+depends=('python3' 'python-distutils-extra' 'python-gobject' 'yelp' 'webkit2gtk' 'gobject-introspection' 'gtk3')
 source=("https://github.com/andrewsomething/${pkgname}/archive/${pkgver}.tar.gz")
 sha256sums=('1328a54021d0c575f7e4c4f7331c33cfff361861b065278998f0a186aa92c7b3')
 
